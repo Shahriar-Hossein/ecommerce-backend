@@ -1,14 +1,23 @@
-## E-commerce Backend
+# E-commerce Backend
 
-This is the backend of the E-commerce project. It is built with Laravel 11 and uses the Laravel Sanctum package for API authentication.
+A robust Laravel 11 backend for an e-commerce platform, featuring RESTful APIs, role-based access control, secure media handling, queued mailing, and interactive Swagger documentation.
 
-- [Laravel](https://laravel.com)
-- [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum)
-- [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission/v5/introduction)
-- [Spatie Laravel Media Library](https://spatie.be/docs/laravel-medialibrary/v9/introduction)
-- [DarkaOnLine L5 Swagger Laravel API Documentation Generator](https://github.com/DarkaOnLine/L5-Swagger)
+<p align="center">
+  <img src="docs/images/api-endpoints-1.png" alt="API Endpoint Screenshot 1" width="48%" />
+  <img src="docs/images/api-endpoints-2.png" alt="API Endpoint Screenshot 2" width="48%" />
+</p>
 
-This project is still in development and is not yet ready for production.
+---
+
+## 🔧 Tech Stack
+
+- [Laravel 11](https://laravel.com) – PHP web framework
+- [Laravel Sanctum](https://laravel.com/docs/11.x/sanctum) – API authentication
+- [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission/v5/introduction) – Role & permission management
+- [Spatie Laravel Media Library](https://spatie.be/docs/laravel-medialibrary/v9/introduction) – Media upload & association
+- [L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) – API documentation generator
+
+> ⚠️ This project is in development and not ready for production use.
 
 ## Installation
 

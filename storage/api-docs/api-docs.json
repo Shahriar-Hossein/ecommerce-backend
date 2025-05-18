@@ -2111,7 +2111,7 @@
                 "tags": [
                     "User"
                 ],
-                "summary": "Login",
+                "summary": "social Login with code",
                 "operationId": "130a8d0244ce932d0430e3a591ac75f2",
                 "requestBody": {
                     "content": {
@@ -2181,7 +2181,7 @@
                                             "properties": {
                                                 "error": {
                                                     "type": "string",
-                                                    "example": "Wrong Password."
+                                                    "example": ""
                                                 }
                                             },
                                             "type": "object"
@@ -2203,5 +2203,27 @@
                 "scheme": "bearer"
             }
         }
-    }
+    },
+    "tags": [
+        {
+            "name": "Banner",
+            "description": "Banner"
+        },
+        {
+            "name": "Category",
+            "description": "Category"
+        },
+        {
+            "name": "Order",
+            "description": "Order"
+        },
+        {
+            "name": "Product",
+            "description": "Product"
+        },
+        {
+            "name": "User",
+            "description": "User"
+        }
+    ]
 }
