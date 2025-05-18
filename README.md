@@ -3,8 +3,8 @@
 A robust Laravel 11 backend for an e-commerce platform, featuring RESTful APIs, role-based access control, secure media handling, queued mailing, and interactive Swagger documentation.
 
 <p align="center">
-  <img src="docs/images/api-endpoints-1.png" alt="API Endpoint Screenshot 1" width="48%" />
-  <img src="docs/images/api-endpoints-2.png" alt="API Endpoint Screenshot 2" width="48%" />
+  <img src="docs/images/2025-05-18_15-06.png" alt="API Endpoint Screenshot 1" width="48%" />
+  <img src="docs/images/2025-05-18_15-06_1.png" alt="API Endpoint Screenshot 2" width="48%" />
 </p>
 
 ---
